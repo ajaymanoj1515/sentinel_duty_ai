@@ -1,0 +1,14 @@
+# Ignore the database (Security first!)
+data/*.db
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore Virtual Environments
+venv/
+env/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
